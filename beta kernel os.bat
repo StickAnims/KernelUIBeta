@@ -176,7 +176,7 @@ echo ----------------------------------------------------------------
 echo -                   Settings                                   -
 echo ----------------------------------------------------------------
 echo -                                                              -
-echo - Using: cmDos 2.5                                             -
+echo - Using: cmDos 2.1                                             -
 echo -        with Kernel UI installed                              -
 echo -                                                              -
 echo -                                                              -
